@@ -58,6 +58,6 @@ Game ini dibuat sebagai pemenuhan **Tugas Akhir / Final Project** mata kuliah Pe
 ## 👥 Tim Pengembang
 
 **Universitas Lampung**
-* Muhammad Abizar (`2617051043`)
-* Devi Pratiwi (`2617051016`)
-* Dechasshyfa Adharisma (`2617051029`)
+* Muhammad Abizar       |`2617051043`|
+* Devi Pratiwi          |`2617051016`|
+* Dechasshyfa Adharisma |`2617051029`|
